@@ -1,6 +1,6 @@
 Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german
 
-resourceCamshaftSR,Items,Resource,,,"Camshaft",,"Knockenwelle"
-resourceCamshaftSRDesc,Items,Resource,,,"Camshaft used to craft SmallEngine.",,"Ein Knockenwelle für den bau von Motoren."
-resourceCamshaftSRSchematic,Items,Schematic,,,"Schematic - Unlocks the Camshaft",,"Bauplan - Schaltet die Knockenwelle frei."
+resourceCamshaftSR,Items,Resource,,,"Camshaft",,"Nockenwelle"
+resourceCamshaftSRDesc,Items,Resource,,,"Camshaft used to craft SmallEngine.",,"Ein Nockenwelle für den bau von Motoren."
+resourceCamshaftSRSchematic,Items,Schematic,,,"Schematic - Unlocks the Camshaft",,"Bauplan - Schaltet die Nockenwelle frei."
 smallEngineSchematic,Items,Schematic,,,"Schematic - Unlocks Engine",,"Bauplan - Schaltet Motor frei."
