@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+  <ModInfo>
+    <Name value="craftable_Engine" />
+    <Description value="Allows Engines to be crafted" />
+    <Author value="stolzerrabe" />
+    <Version value="1.0.0" compat="A20" />
+  </ModInfo>
+</xml>
